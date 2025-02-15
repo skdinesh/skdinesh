@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DINESH_SK</h1>
 <h3 align="center">A passionate MERN developer</h3>
+<img align="right" alt="Coding gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwcGd4aXZ4ZWE4YzFua3R4aXJnYWxtaXJibzA4dm0wZ21wM3FxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skdinesh&label=Profile%20views&color=0e75b6&style=flat" alt="skdinesh" /> </p>
 
