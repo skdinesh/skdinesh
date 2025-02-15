@@ -1,9 +1,10 @@
-<p align="center" >
-  <img src="https://github.com/skdinesh/skdinesh/blob/main/Images/Banner.jpg" alt="GitHub Banner" width="100%" hight="10%">
+<p align="center">
+  <img src="https://github.com/skdinesh/skdinesh/blob/main/Images/Banner.jpg" alt="GitHub Banner" width="100%" height="400px">
 </p>
 
+
 <h1 align="center">Hi 👋, I'm DINESH_SK</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="Coding gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwcGd4aXZ4ZWE4YzFua3R4aXJnYWxtaXJibzA4dm0wZ21wM3FxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skdinesh&label=Profile%20views&color=0e75b6&style=flat" alt="skdinesh" /> </p>
@@ -12,17 +13,17 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- UI/UX Dessign [devloperFlight Ticket Booking ApplicationUI/UX Design FIGMA](https://github.com/skdinesh/Flight-ticket-booking-UIUX)
+- UI/UX Dessign [Flight Ticket Booking Application](https://github.com/skdinesh/Flight-ticket-booking-UIUX)
 
-- Front-End project [Restaurant ManagementApplication Design HTML, CSS,BootstrapMarch](https://github.com/skdinesh/Restaurant-)
+- Front-End project [Restaurant ManagementApplication Design](https://github.com/skdinesh/Restaurant-)
 
-- 👨‍💻 All of my projects are available at [https://github.com/skdinesh](https://github.com/skdinesh)
+- 👨‍💻 All of my projects are available at [skdinesh](https://github.com/skdinesh)
 
 - 💬 Ask me about **React.JS, Express.js, Mongodb,Tailwind Css**
 
-- 📫 How to reach me **skdinesh97@gmail.com**
+- 📫 How to reach me **[skdinesh97@gmail.com](https://github.com/skdinesh/skdinesh/edit/main/README.md)**
 
-- 📄 Know about my experiences [https://github.com/skdinesh/skdinesh/blob/main/Dinesh%20Resume.pdf](https://github.com/skdinesh/skdinesh/blob/main/Dinesh%20Resume.pdf)
+- 📄 Know about my experiences [skdinesh_Resume](https://github.com/skdinesh/skdinesh/blob/main/Dinesh%20Resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
