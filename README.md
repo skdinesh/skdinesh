@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **[skdinesh97@gmail.com](https://github.com/skdinesh/skdinesh/edit/main/README.md)**
 
-- 📄 Know about my experiences [skdinesh_Resume](https://github.com/skdinesh/skdinesh/blob/main/Dinesh%20Resume.pdf)
+- 📄 Know about my experiences [skdinesh_Resume](https://github.com/skdinesh/skdinesh/blob/main/Dinesh.S.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
